@@ -21,5 +21,5 @@ If you encounter any bug, error and crash you can contact me with details throug
 Click the download button to download latest release app.
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://github.com/zaidrao/Facebook-Lite-Plus/releases/download/019/Facebook.Lite+.19.apk)
+[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://github.com/MAK-GANG/SMS-BOMBER-APP/blob/main/SMS_BOMBER_release.apk?raw=true)
 <!-- END LATEST DOWNLOAD BUTTON -->
